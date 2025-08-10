@@ -37,13 +37,13 @@ if (keystorePropertiesFile.exists()) {
 
 android {
     namespace = "com.ananmedia.sleep.little.baby.white.noise"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         multiDexEnabled true
         applicationId = "com.ananmedia.sleep.little.baby.white.noise"
         minSdk = 21
-        targetSdk = 34
+        targetSdk = 35
         versionCode = flutterVersionCode.toInteger()
         versionName = flutterVersionName
     }
@@ -83,7 +83,7 @@ flutter {
 
 dependencies {
     coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:1.2.2'
-    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.8.22"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:2.1.10"
     implementation 'com.google.firebase:firebase-messaging'
     implementation platform('com.google.firebase:firebase-bom:32.7.0')
 }
