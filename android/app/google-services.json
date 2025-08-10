@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "377079651139",
+    "project_id": "bedtime-stories-generator",
+    "storage_bucket": "bedtime-stories-generator.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377079651139:android:98ff1dbc1a3110371d2df6",
+        "android_client_info": {
+          "package_name": "com.ananmedia.bedtime.story.generator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJDlj3QgVBe6NJBZfSW8-ZmKpmFhvX7gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377079651139:android:37fe4cfc486a2b121d2df6",
+        "android_client_info": {
+          "package_name": "com.ananmedia.sleep.little.baby.white.noise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJDlj3QgVBe6NJBZfSW8-ZmKpmFhvX7gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377079651139:android:84f7c4bdd6c7e6851d2df6",
+        "android_client_info": {
+          "package_name": "com.ananmedia.taleai.storywriter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJDlj3QgVBe6NJBZfSW8-ZmKpmFhvX7gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
